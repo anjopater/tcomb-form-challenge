@@ -1,0 +1,35 @@
+{
+  "short_name": "Story",
+  "name": "Story",
+  "icons": [
+    {
+      "src": "/favicons/apple-touch-icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicons/apple-touch-icon-120.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicons/apple-touch-icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicons/apple-touch-icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "splash_screens": [
+    {
+      "src": "/favicons/apple-touch-icon-180"
+    }
+  ],
+  "start_url": "./?utm_source=web_app_manifest",
+  "background_color": "#039be6",
+  "theme_color": "#039be6",
+  "display": "standalone"
+}
